@@ -56,3 +56,8 @@ The dataset consists of transaction records from an e-commerce platform with the
 - To implement **Hierarchical Clustering** for better interpretability.
 - Developing **automated customer insights** with dashboards.
 - Integrating with **real-time e-commerce data**.
+
+## Author
+- Amritangshu Dey
+- Biprajeet Sen
+- Antariksh Sarmah
